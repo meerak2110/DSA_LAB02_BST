@@ -1,0 +1,5 @@
+﻿  implementation.c
+  main.c
+C:\Users\kurup\OneDrive\Desktop\Lab-2-DSA\Lab02\Binary Search Tree\main.c(12,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Binary Search Tree.vcxproj -> C:\Users\kurup\OneDrive\Desktop\Lab-2-DSA\Lab02\x64\Debug\Binary Search Tree.exe
